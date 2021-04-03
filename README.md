@@ -12,7 +12,7 @@ Documentation is available over at [Luxonis DepthAI API](https://docs.luxonis.co
 DepthAI library doesn't yet provide API stability guarantees. While we take care to properly deprecate old functions, some changes might still be breaking. We expect to provide API stability from version 3.0.0 onwards.
 
 ## Dependencies
-- cmake >= 3.4
+- cmake >= 3.2
 - libusb1 development package (MacOS & Linux only)
 - C/C++11 compiler
 - [optional] OpenCV 
